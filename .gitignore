@@ -1,0 +1,10 @@
+wro
+dependency-reduced-pom.xml
+git.properties
+target
+.project
+.metadata
+.classpath
+.settings/
+.idea
+*.iml
